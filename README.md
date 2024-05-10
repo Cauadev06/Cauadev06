@@ -1,3 +1,3 @@
 Me chamo Cauã , tenho 18 anos
-e quero aprender a desenvolver programas
+e estou aprendendo a desenvolver programas
 
